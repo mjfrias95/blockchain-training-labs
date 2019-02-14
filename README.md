@@ -166,6 +166,7 @@ Optional:
 NOTE:
 If you get stuck here:
 ![selection_024](https://user-images.githubusercontent.com/44287989/52777794-95941300-307f-11e9-89f0-5d2d1d02f9a1.png)
+just ctrl+c and continue.
 
 and also this kind of error:
 ![selection_035](https://user-images.githubusercontent.com/44287989/52777691-5960b280-307f-11e9-9dac-fcff3a3c25b2.png)
