@@ -178,10 +178,3 @@ docker rm $(docker ps -aq)
 docker rmi $(docker images dev-* -q)
 
 then repeat from step 6 to 19.
-
-
-REFERENCE:
-
-https://hyperledger.github.io/composer/latest/installing/installing-prereqs.html
-https://golang.org/
-https://github.com/khrandm/blockchain-training-labs
