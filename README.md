@@ -54,7 +54,6 @@ Hyperledger Activity:
 
 Mandatory:
 
-
     1. First, if you have existing blockchain-training-labs folder in your directory. You should rename it so you wont have any problems when you clone another blockchain-training-labs in git hub.
     
     2. Type in your terminal: git clone https://github.com/khrandm/blockchain-training-labs
@@ -105,6 +104,7 @@ Mandatory:
     Change “PUT” to “GET” and the url to localhost:3000 then click send to see the updated record.
 
 Optional:
+
     1. Open terminal then “git clone https://github.com/khrandm/blockchain-training-labs”
     
     2. Open the folder that you cloned and paste it into your fabric-samples folder.
